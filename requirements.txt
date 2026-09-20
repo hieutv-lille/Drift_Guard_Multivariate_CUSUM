@@ -1,0 +1,13 @@
+# DG-MCUSUM reproduction package.
+# Pinned loosely: the study uses only long-stable APIs.
+numpy>=1.20
+pandas>=1.2
+scipy>=1.6
+
+# Required only because the archived script legacy/dg_mcusum_study.py imports
+# matplotlib at module level, and tests/test_equivalence.py has to import that
+# script to check this package against it. No plotting is done by dgmcusum/.
+matplotlib>=3.3
+
+# Optional, for running the test suite with pytest:
+# pytest>=6.0
