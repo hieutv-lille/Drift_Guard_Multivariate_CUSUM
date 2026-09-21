@@ -53,9 +53,3 @@ downstream number would shift.
 Cited in the manuscript as `kaya2019predicting` and
 `gas_turbine_co_and_nox_emission_data_set_551`.
 
-## A note on what this layer does
-
-The archive carries **no verified fault times**. Shifts are injected into a
-bootstrap of the fitted Phase-I innovations, so this is a semi-synthetic stress
-test of the masking mechanism — not validation on observed industrial faults.
-The manuscript states this; the code repeats it on every run.
