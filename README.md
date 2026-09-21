@@ -1,3 +1,5 @@
+Drift-Guard MCUSUM: Protected Confirmation for Persistent Shifts under a Time-Varying Baseline
+
 
 ```bash
 pip install -r requirements.txt
