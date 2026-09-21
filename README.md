@@ -1,4 +1,4 @@
-Drift-Guard MCUSUM: Protected Confirmation for Persistent Shifts under a Time-Varying Baseline
+# Drift-Guard MCUSUM: Protected Confirmation for Persistent Shifts under a Time-Varying Baseline
 
 
 ```bash
