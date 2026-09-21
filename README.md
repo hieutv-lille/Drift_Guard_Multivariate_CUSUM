@@ -11,10 +11,3 @@ python scripts/run_all.py --quick
 | **`REPRODUCE.md`** | Step-by-step reproduction, runtimes, hardware notes. |
 | `data/README.md` | How to obtain the gas-turbine archive (not redistributed). |
 
-
-## License
-
-**Not yet set.**
-
-The archived sources in `legacy/` and the gas-turbine data are covered
-separately: see `legacy/README.md` and `data/README.md`.
